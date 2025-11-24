@@ -1,5 +1,5 @@
 ---
-title: "Strategic evolution in repeated games"
+title: 'Strategic evolution in repeated games'
 collection: publications
 category: wip
 permalink: /publication/wip3
