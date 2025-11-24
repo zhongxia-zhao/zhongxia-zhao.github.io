@@ -9,7 +9,7 @@ This is a coauthored paper with Kevin Zollman'
 date: 2099-01-01
 venue: ''
 slidesurl: ''
-paperurl: ''
+paperurl: '/files/induced_manuscript_1125.pdf'
 bibtexurl: ''
 citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
