@@ -8,9 +8,9 @@ excerpt: 'Evolutionary game theory is often agnostic about its interpretation. O
 This is a coauthored paper with Kevin Zollman'
 date: 2099-01-01
 venue: ''
-slidesurl: ''
+slidesurl: #''
 paperurl: '/files/induced_manuscript_1125.pdf'
-bibtexurl: ''
+bibtexurl: #''
 citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
