@@ -46,7 +46,6 @@
           <p><i>{{ post.venue }}</i></p>
         {% endif %}
       {% else %}
-        {# Normal publications: show venue + year #}
         <p>
           Published in <i>{{ post.venue }}</i>
           {% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}
