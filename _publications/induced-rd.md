@@ -1,7 +1,7 @@
 ---
 title: "Strategic evolution in extensive form games"
 collection: publications
-category: manuscripts
+category: wip
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Evolutionary game theory is often agnostic about its interpretation. One set of equations can represent biological evolution, cultural evolution, or individual learning. We argue that this multiple interpretation cannot hold in games with a temporal structure (known as sequential or extensive-form games). We introduce a new dynamic which better represents evolution and learning in extensive-form games, and we illustrate some differences. Our model also provides a condition under which evolutionary game theory will coincide with classical game theory.
 
